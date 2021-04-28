@@ -3,13 +3,13 @@
 
 :raising_hand: Hi, I’m Kate
 
-:green_circle: 5+ years experience in software engineering
+:white_check_mark: 5+ years experience in software engineering and 
 
-:green_circle: Interesting in Machine Learning and Deep Learning
+:white_check_mark: Interesting in AI
 
-:white_circle: If you want to know more about me: www.katenonova.com
+:white_check_mark: If you want to know more about me: www.katenonova.com
 
-:white_circle: Contact me on my email: katenonova@gmial.com
+:white_check_mark: Contact me on my email: katenonova@gmail.com
 
 <br />
 :large_blue_diamond: This repository contains my portfolio of Machine Learning projects. They are presented in the form of Jupyter Notebooks.
