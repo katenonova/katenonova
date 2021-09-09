@@ -15,10 +15,15 @@
 :large_blue_diamond: This repository contains my portfolio of Machine Learning projects. They are presented in the form of Jupyter Notebooks.
 
 
-## Contents
+>
+> ## Contents
+>
 <!---
 katenonova/katenonova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-- ### SMS Spam Classifier
+- ### [SMS Spam Classifier](https://github.com/katenonova/Spam_Classifierm)  
+- ### [Sign Language Classifier]()  
+- ### [COVID-19 effects on grades]()
+-  ### [Face Mask Detection using YOLO3]()  
