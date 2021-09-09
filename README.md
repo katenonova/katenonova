@@ -3,7 +3,7 @@
 
 :raising_hand: Hi, I’m Kate
 
-:white_check_mark: 5+ years experience in software engineering and 
+:white_check_mark: 5+ years experience in software engineering
 
 :white_check_mark: Interesting in AI
 
