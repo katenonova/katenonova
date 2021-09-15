@@ -23,7 +23,7 @@ katenonova/katenonova is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-- ### [SMS Spam Classifier](https://github.com/katenonova/Spam_Classifierm)  
-- ### [Sign Language Classifier]()  
+- ### [SMS Spam Classifier](https://github.com/katenonova/Spam_Classifier/blob/main/Spam_Classification.ipynb)  
+- ### [Sign Language Classifier](https://github.com/katenonova/Sign_Language_Numbers/blob/main/Sign%20Language%20Classification.ipynb)  
 - ### [COVID-19 effects on grades]()
 -  ### [Face Mask Detection using YOLO3]()  
